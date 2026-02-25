@@ -78,8 +78,6 @@ g++ unit_test.cpp -o unit_test.exe
 
 ---
 
-## 📄 License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
