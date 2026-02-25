@@ -1,7 +1,6 @@
 # 📦 Unit Inventory Management System
 
 [![C++](https://img.shields.io/badge/C++-11%2B-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B11)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/Build-Success-brightgreen.svg)]()
 
 A high-performance, **ANSI-powered** terminal application for professional inventory oversight. This system combines robust C++ logic with a modern, reactive console dashboard, providing real-time stock visualization and automated data persistence.
