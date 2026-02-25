@@ -75,10 +75,5 @@ To run tests:
 g++ unit_test.cpp -o unit_test.exe
 .\unit_test.exe
 ```
-
----
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---
 *Developed by [OMReda](https://github.com/OMReda)*
