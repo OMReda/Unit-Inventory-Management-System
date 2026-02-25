@@ -1,0 +1,9 @@
+DEBUG: sortByName() executed.
+DEBUG: sortByName() executed.
+DEBUG: sortById() executed.
+DEBUG: sortByPrice() executed.
+DEBUG: sortById() executed.
+DEBUG: sortByName() executed.
+DEBUG: sortByPrice() executed.
+DEBUG: sortById() executed.
+DEBUG: sortByName() executed.
